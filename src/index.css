@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.btn {
+    border: 1px solid red; /* Specify the border style with 'border' property */
+    border-radius: 2px;    /* Set the border radius to round the corners */
+    color: red;
+    text-align: center;
+  
+      /* Add margin below the button using 'margin-bottom' */
+}
